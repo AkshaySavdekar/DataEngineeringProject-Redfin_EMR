@@ -3,6 +3,9 @@
 
 Used Redfin Data for this Project which is placed in Raws S3 Bucket. Leveraged AWS EMR to setup Pyspark. Connected Pyspark with S3 Bucket and Transform the Data which is again placed in Transformed Bucket.
 
+##Architecture
+![image](https://github.com/AkshaySavdekar/DataEngineeringProject-Redfin_EMR/assets/119107773/f0639820-160b-43eb-8fd7-0302d2cefc24)
+
 
 ## Tech Stack
 
